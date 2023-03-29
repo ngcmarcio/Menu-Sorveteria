@@ -28,7 +28,7 @@ header h1{
     font-family: 'satisfy';
     text-align: center;
     padding-top: 50px;
-    color: var(--cor7);
+    color: var(--cor5);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.411);
     font-weight: normal;
     font-size: 3em;
@@ -61,6 +61,9 @@ main{
     margin-bottom: 30px;
     border-radius: 0px 0px 10px 10px;
 }
+img{
+    width: 100%;
+}
 main h2{
     text-align: center;
     padding: 10px;
@@ -75,9 +78,10 @@ main h2{
 div{
     text-align: center;
     padding-bottom: 20px;
+    margin-bottom: 10px;
 }
 div > p{
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     display: inline-block;
     background-color: #88A3E2;
@@ -86,6 +90,9 @@ div > p{
     font-family: arial;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.274);
     font-weight: bold;
+    margin-bottom: 10px;
+    
+    
 }
 aside{
     background-color: #bf00ff;
