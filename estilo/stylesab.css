@@ -76,7 +76,13 @@ div{
 div p{
     text-align: center; 
     margin: auto;
-    display: inline-block;   
+    display: inline-block; 
+    background-color: #88A3E2;
+    padding: 10px;
+    border-radius: 10px;  
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.274);
 }
 aside{
     background-color: #bf00ff;
